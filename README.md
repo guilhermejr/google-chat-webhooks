@@ -4,7 +4,7 @@ Envia mensagem para o Google Chat via Webhooks
 
 ## Dependência
 
-* PHP 7.3+
+* PHP 7.1+
 
 ## Instalação
 
