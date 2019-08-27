@@ -1,0 +1,21 @@
+{
+    "name": "guilhermejr/google-chat-webhooks",
+    "description": "Envia mensagem para o Google Chat via Webhooks",
+    "homepage": "https://github.com/guilhermejr/google-chat-webhooks",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Jr.",
+            "email": "falecom@guilhermejr.net"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "GCW\\" : "src/"
+        }
+    }
+}
